@@ -1,0 +1,7 @@
+rSeq	sSeq	oVal
+3	4	3
+7	6	2
+10	10	2
+null	null	null
+null	null	null
+null	null	null
